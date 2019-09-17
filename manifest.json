@@ -1,14 +1,15 @@
 {
 	"files": {
 		"Droplog.js": "44907bfc20407171edf4315596f996bd52e127faac2440f3bb05e47d72a99af9",
-		"Loot.js": "c15209d9335fcaf46f9e89604bfbe514c48874d7bad0315421299b1cc2e3daf1",
-		"README.md": "48f883ad90146aef308c45be447ea5ae852675a560772a4313568adbcb1918c9",
+		"index.js": "d4bc468f9afcb63d5318fc3f082068e0cad6b5a0d8845bad3679f0a08095caa7",
+		"Loot.js": "d7708cbbc8f5d5934cdabec10e72b222711e4a25f0be8d9c4c3026959b8560f6",
+		"manifest.json": "8846ffcfbc4f92b47266b82368572b5faa21f11309492798d96cbdcb0340724a",
+		"module.json": "7d93e5a1b8fd5431d4cebf5c2031c6ec63552273a403e4726fb63736180289f2",
+		"README.md": "af508e7bb4bba4b097036dcc753c7ddf4e7be20d76370511319a07ebf384d856",
 		"config.json": {
 			"overwrite": false,
-			"hash": "ea14df28f35cdd683f3ef07d4c8a6a4f745100af5ea38f00eaa75719092a2b86"
-		},
-		"index.js": "d4bc468f9afcb63d5318fc3f082068e0cad6b5a0d8845bad3679f0a08095caa7",
-		"module.json": "b4b580cd4a757e16f15c832ab6be1ac36f107e27675187da7013156d543e6f7e"
+			"hash": "56f020a0c4274108d6dd76133179bd72b70b4ecb4a79579f814cdcde43b6ad19"
+		}
 	},
 	"defs": {
 		"C_PLAYER_LOCATION": 5,
@@ -16,7 +17,7 @@
 		"S_CREATURE_LIFE": 3,
 		"S_DESPAWN_DROPITEM": 4,
 		"S_LOAD_TOPO": 3,
-		"S_LOGIN": 10,
+		"S_LOGIN": 13,
 		"S_MOUNT_VEHICLE": 2,
 		"S_SPAWN_DROPITEM": 6,
 		"S_SPAWN_ME": 3,

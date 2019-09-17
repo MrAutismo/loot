@@ -1,12 +1,12 @@
 {
   "disableAutoUpdate": false,
   "name": "loot",
-  "author": "Saegusae",
+  "author": "MrAutismo",
   "options": {
     "niceName": "Loot"
   },
   "servers": [
-    "https://raw.githubusercontent.com/saegusae/loot/dist/"
+    "https://raw.githubusercontent.com/mrautismo/loot/dist/"
   ],
   "supportUrl": "https://discord.gg/dUNDDtw"
 }
