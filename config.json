@@ -1,0 +1,66 @@
+{
+  "enabled": {
+    "overworld": false,
+    "instance": false
+  },
+  "lootRange": 150,
+  "lootInterval": 300,
+  "template": "default",
+  "templates": {
+    "default": {
+      "whitelist": [],
+      "blacklist": []
+    },
+    "essence_only": {
+      "whitelist": [],
+      "blacklist": []
+    },
+    "motes_only": {
+      "whitelist": [],
+      "blacklist": []
+    },
+	"lmao" : {
+	  "whitelist": [],
+	  "blacklist": [
+	    7214, 
+	
+    	
+		88784, 
+		88785, 
+		88786,
+		88787,
+		
+		88849,
+        88850,
+        88851,
+        88852,
+		
+		201656,
+		202017,
+		
+		88827, 
+		88832, 
+		88831, 
+		88836, 
+		88829, 
+		88834, 
+		88828, 
+		88833, 
+		88830, 
+		88835, 
+		
+		88837, 
+      
+		98656, 
+		
+		88841, 
+		88842, 
+		
+		
+		98671, 
+		98672
+	  ]
+	}
+	
+  }
+}
